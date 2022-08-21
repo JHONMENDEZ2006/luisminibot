@@ -73,8 +73,8 @@ global.APIKeys = { // APIKey Here
 global.packname = '(☞ﾟ∀ﾟ)☞ツғᴇɴιx™ᏰტᎿ'
 global.author = '★ тнє вღт_мZ2006- 𝙱𝚘𝚝★'
 
-global.wm = '★тнє вღт_мZ2006 - 𝙱𝚘𝚝★'
-global.igfg = '★тнє вღт_мZ2006 - 𝙱𝚘𝚝★'
+global.wm = '★꧁༒•𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈ᴮᵒᵗ•༒꧂- 𝙱𝚘𝚝★'
+global.igfg = '★꧁༒•𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈ᴮᵒᵗ•༒꧂- 𝙱𝚘𝚝★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
