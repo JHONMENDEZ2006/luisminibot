@@ -70,8 +70,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = '(☞ﾟ∀ﾟ)☞ツғᴇɴιx™ᏰტᎿ'
-global.author = '★ тнє вღт_мZ2006- 𝙱𝚘𝚝★'
+global.packname = '꧁༒•𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈ᴮᴼᵀ•༒꧂'
+global.author = '★ Server:Nodo4 on- 𝙱𝚘𝚝★'
 
 global.wm = '★꧁༒•𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈ᴮᵒᵗ•༒꧂- 𝙱𝚘𝚝★'
 global.igfg = '★꧁༒•𝐋𝐔𝐈𝐒𝐍𝐈𝐍𝐈ᴮᵒᵗ•༒꧂- 𝙱𝚘𝚝★'
