@@ -508,7 +508,7 @@ handler.command = /^(menu|menú|memu|memú|help|info|comandos|allmenu|2help|menu
 handler.exp = 50
 handler.fail = null
 export default handler
-handler.register = true
+handler.register = false
 
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
