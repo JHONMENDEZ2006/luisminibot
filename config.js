@@ -14,6 +14,7 @@ global.owner = [
   [''],
   ['']
 ] // Cambia los numeros que quieras
+global.suittag = ['529624007726'] 
 global.mods = [] 
 global.prems = [] 
 
